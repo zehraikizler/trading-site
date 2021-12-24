@@ -14,4 +14,4 @@ function scrollFunction() {
   } else {
     navbar.style.position = "relative";
   }
-}
+};

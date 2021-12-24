@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "odio nobis",
+        "img": "imgs/dresses/dress-1.jpg",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 28,
+        "price": 1400
+    },
+    {
+        "id": 2,
+        "title": "sunt dicta",
+        "img": "imgs/dresses/dress-2.webp",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 103,
+        "price": 700
+    },
+    {
+        "id": 3,
+        "title": "aut doloremque",
+        "img": "imgs/dresses/dress-3.webp",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 73,
+        "price": 2100
+    },
+    {
+        "id": 4,
+        "title": "magnam commodi",
+        "img": "imgs/dresses/dress-4.webp",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 288,
+        "price": 5000
+    },
+    {
+        "id": 5,
+        "title": "cumque maiores",
+        "img": "imgs/dresses/dress-5.webp",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 48,
+        "price": 7300
+    },
+    {
+        "id": 6,
+        "title": "adipisicing elit",
+        "img": "imgs/dresses/dress-6.jpg",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 96,
+        "price": 1900
+    },
+    {
+        "id": 7,
+        "title": "amet consectetur",
+        "img": "imgs/dresses/dress-7.webp",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 34,
+        "price": 4500
+    },
+    {
+        "id": 8,
+        "title": "enim incidunt",
+        "img": "imgs/dresses/dress-8.jpg",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 25,
+        "price": 3200
+    },
+    {
+        "id": 9,
+        "title": "laborum quae",
+        "img": "imgs/dresses/dress-9.webp",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 347,
+        "price": 1600
+    },
+    {
+        "id": 10,
+        "title": "nemo voluptas",
+        "img": "imgs/dresses/dress-10.webp",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 27,
+        "price": 2400
+    },
+    {
+        "id": 11,
+        "title": "est delectus",
+        "img": "imgs/dresses/dress-11.jpg",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 49,
+        "price": 5300
+    },
+    {
+        "id": 12,
+        "title": "obis perspiciatis",
+        "img": "imgs/dresses/dress-12.webp",
+        "detail": "Woman, Dress, Beatiful",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Perferendis enim incidunt laborum quae nemo voluptas voluptatum perspiciatis est delectus cumque maiores magnam commodi aut doloremque, possimus sunt dicta odio nobis!",
+        "favorite-number": 174,
+        "price": 6800
+    }
+]
