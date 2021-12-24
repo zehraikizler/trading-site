@@ -9,3 +9,20 @@ body {
 .navbar-brand {
     font-family: cursive;
 }
+
+/* Products */
+
+.products {
+    background-color: #CDF2CA;
+}
+
+.products > h1{
+    font-family: cursive;
+    font-weight: 900;
+}
+
+.favorite-product:hover {
+    cursor: pointer;
+    background-color: rgb(248, 193, 193) !important;
+    color: white;
+}
