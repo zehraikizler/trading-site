@@ -26,3 +26,13 @@ body {
     background-color: rgb(248, 193, 193) !important;
     color: white;
 }
+
+/* Footer */
+
+.footer-ul {
+    list-style-type: none;
+} 
+
+.footer-ul > li {
+    display: inline;
+}
